@@ -4,7 +4,7 @@
 
 ### Resolución de los retos de [codember 2023 ](https://codember.dev/) en javascript
 
-|  # |           Reto       | Solucionado |
-|----|----------------------|-------------|
-| 01 | Mensajes encriptados |     ✔️     |
-
+|  # |           Reto          | Solucionado |
+|----|-------------------------|-------------|
+| 01 | Mensajes encriptados    |     ✔️     |
+| 02 | Mini Compiler Challenge |     ✔️     |
