@@ -8,3 +8,4 @@
 |----|-------------------------|-------------|
 | 01 | Mensajes encriptados    |     ✔️     |
 | 02 | Mini Compiler Challenge |     ✔️     |
+| 03 | Cifrado espía           |     ✔️     |
