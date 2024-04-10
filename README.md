@@ -6,7 +6,8 @@
 
 |  # |           Reto                    | Solucionado |
 |----|-----------------------------------|-------------|
-| 01 | Mensajes encriptados              |     ✔️     |
-| 02 | Mini Compiler Challenge           |     ✔️     |
-| 03 | Cifrado espía                     |     ✔️     |
-| 04 | Hackers dañan sistema de archivos |     ✔️     |
+| 01 | [Mensajes encriptados](Desafio01)             |     ✔️     |
+| 02 | [Mini Compiler Challenge](Desafio02)          |     ✔️     |
+| 03 | [Cifrado espía](Desafio03)                    |     ✔️     |
+| 04 | [Hackers dañan sistema de archivos](Desafio04)|     ✔️     |
+| 05 | [El problema final](Desafio05)                |     ✔️     |

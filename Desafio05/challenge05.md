@@ -1,5 +1,4 @@
-Felicidades. ¡Has solucionado el reto 4 correctamente! Has obtenido 100 puntos. ¡Ahora tienes 9056750 puntos!
-$ cat CHALLENGE_05.txt
+
 ** El problema final **
 Finalmente los hackers han conseguido acceder a la base de datos y la han dejado corrupta. Pero parece que han dejado un mensaje oculto en la base de datos. ¿Podrás encontrarlo?
 
