@@ -2,7 +2,7 @@
 
 function validateCheckSum(fileList) {
     let res = []
-    let file 
+    let file
     let checkSum
 
     fileList.split('\n').forEach(el => {
